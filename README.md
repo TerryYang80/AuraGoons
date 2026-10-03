@@ -1,2 +1,2 @@
 # AuraGoons
-Personal Webpage
+Personal Webpage For The Thingy
