@@ -1,6 +1,18 @@
-div {
+
+html {
+    background-color: antiquewhite;
+}
+
+.tuff123 {
     background-color: red;
-    height: 200px;
+    display: block;
+    height: 150px;
     width: 200px;
     
+}
+
+.line {
+    background-color:darkkhaki;
+    width: 100%;
+    height: 5px;
 }
